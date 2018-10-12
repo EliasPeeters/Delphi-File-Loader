@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.056,=\\Mac\Home\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2018.10.12 11:28:55.095,=\\Mac\Home\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2018.10.12 11:38:56.478,\\Mac\Home\Documents\Programming\Embarcadero\Delphi-File-Loader\MainUnit.dfm=\\Mac\Home\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2018.10.12 11:38:56.478,\\Mac\Home\Documents\Programming\Embarcadero\Delphi-File-Loader\MainUnit.pas=\\Mac\Home\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2018.10.12 11:39:20.369,\\Mac\Home\Documents\Programming\Embarcadero\Delphi-File-Loader\FileLoader.dproj=\\Mac\Home\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
